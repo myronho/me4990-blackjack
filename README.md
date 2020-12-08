@@ -6,7 +6,6 @@ Cal Poly Pomona F2020
 ME4990 - Introduction to Computer Science
 Dec 9, 2020
 
-
 RULES / HOW TO PLAY:
 - Try to get a card value of 21.
 - If value is over 21, player instantly loses (bust)
